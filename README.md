@@ -7,5 +7,5 @@ Sadly the project doesn’t exist anymore but the wonderful experience and some 
 ![][homePage] ![][clientPage]
 
 
-[homePage]: https://github.com/puhacinboris/nsreklamdzija/blob/main/NSreklamdzija%20-%20Home%20page.jpg
+[homePage]: https://github.com/puhacinboris/nsreklamdzija/blob/main/NSreklamdzija%20-%20Home%20page_.jpg
 [clientPage]: https://github.com/puhacinboris/nsreklamdzija/blob/main/NSreklamdzija%20-Clients%20page.jpg
